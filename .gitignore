@@ -1,0 +1,9 @@
+.idea
+.metadata
+
+venv
+
+db.*
+
+
+
